@@ -1,6 +1,6 @@
 # algo-js-exercices
 
-## Part One
+## Part One and Two
 1. Introduction
 2. Control structures
 3. Arrays
