@@ -1,4 +1,4 @@
-# algo-js-exercices
+# Algo-js exercices
 
 ## Part One and Two
 1. Introduction
